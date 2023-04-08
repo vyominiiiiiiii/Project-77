@@ -1,0 +1,47 @@
+body{
+    background-color:darkcyan;
+}
+
+.wolf{
+    width: 20%;
+}
+
+#btnlogin:hover{
+    color: rgb(252, 251, 250);
+    background-color:rgba(248, 247, 245, 0.451);
+    height: 4%;
+     width:4%;
+     
+}
+
+#btnlogin{
+    border-radius: 7px;
+    margin: 4px;
+    cursor:pointer;
+}
+
+.imageContainer{
+    border: 10%;
+}
+
+input{
+    padding: 5px ;
+    border-radius: 10px;
+}
+
+h2{
+    color:rgb(244, 246, 248);
+    ;
+}
+
+h1{
+    color: rgb(244, 246, 248);
+    ;
+}
+
+.doc{
+    border: 2px outset rgb(244, 246, 248);
+    border-width: 7px;
+    
+}
+
